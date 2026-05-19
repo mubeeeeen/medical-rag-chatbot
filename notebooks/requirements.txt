@@ -1,0 +1,7 @@
+datasets
+sentence-transformers
+faiss-cpu
+langchain-groq
+langchain-core
+pandas
+numpy
